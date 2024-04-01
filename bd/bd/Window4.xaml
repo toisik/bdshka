@@ -1,0 +1,13 @@
+﻿<Window x:Class="bd.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bd"
+        mc:Ignorable="d"
+        Title="Window4" Height="350" Width="400">
+    <Grid>
+        <Label Content="1. IT&#xD;&#xA;2. Business and Economics&#xD;&#xA;3. Event Management&#xD;&#xA;4. Graphic Design&#xD;&#xA;5. Journalism&#xD;&#xA;6. Project Management" HorizontalAlignment="Center" Height="303" Margin="0,10,0,0" VerticalAlignment="Top" Width="380" FontSize="32" FontFamily="Garamond"/>
+
+    </Grid>
+</Window>

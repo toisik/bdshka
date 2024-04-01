@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Infinix\\source\\repos\\bd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|C:\\Users\\Infinix\\source\\repos\\bd\\bd\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|C:\\Users\\Infinix\\source\\repos\\bd\\bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|C:\\Users\\Infinix\\source\\repos\\bd\\bd\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|c:\\users\\infinix\\source\\repos\\bd\\bd\\db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\db\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|c:\\users\\infinix\\source\\repos\\bd\\bd\\db\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\db\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|c:\\users\\infinix\\source\\repos\\bd\\bd\\db\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\db\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|C:\\Users\\Infinix\\source\\repos\\bd\\bd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0E435DC-3C5D-4739-8731-5039A85CDC7C}|bd\\bd.csproj|solutionrelative:bd\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Model1.edmx",
+              "RelativeDocumentMoniker": "bd\\db\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "bd\\db\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-29T13:08:00.418Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "bd\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\Window1.xaml.cs",
+              "RelativeToolTip": "bd\\Window1.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:02:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "bd\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\MainWindow.xaml.cs",
+              "RelativeToolTip": "bd\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAzwCQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:30:03.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\Window1.xaml",
+              "RelativeDocumentMoniker": "bd\\Window1.xaml",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\Window1.xaml",
+              "RelativeToolTip": "bd\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:57:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Class1.cs",
+              "RelativeDocumentMoniker": "bd\\db\\Class1.cs",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Class1.cs",
+              "RelativeToolTip": "bd\\db\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:02:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "bd\\db\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Window2.xaml.cs",
+              "RelativeToolTip": "bd\\db\\Window2.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:08:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Window2.xaml",
+              "RelativeDocumentMoniker": "bd\\db\\Window2.xaml",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\db\\Window2.xaml",
+              "RelativeToolTip": "bd\\db\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T10:43:12.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "bd\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Infinix\\source\\repos\\bd\\bd\\MainWindow.xaml",
+              "RelativeToolTip": "bd\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:30:03.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
